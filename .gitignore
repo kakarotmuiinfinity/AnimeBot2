@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Bot configuration (if you decide to keep it separate and not commit it)
+config.py
+
+# Logs
+*.log
